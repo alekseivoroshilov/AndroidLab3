@@ -15,7 +15,7 @@ class Act1 : Menu() {
     }
 
     override fun onResume() {
-        About.text = "Activity 1"
+        About.text = "About Activity 1"
         super.onResume()
     }
 }
